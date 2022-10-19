@@ -1,0 +1,8 @@
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\bin\Debug\IParcial_Progra2_Jose Chan.exe.config
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\bin\Debug\IParcial_Progra2_Jose Chan.exe
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\bin\Debug\IParcial_Progra2_Jose Chan.pdb
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\obj\Debug\IParcial_Progra2_Jose Chan.csproj.AssemblyReference.cache
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\obj\Debug\IParcial_Progra2_Jose Chan.csproj.SuggestedBindingRedirects.cache
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\obj\Debug\IParcial_Progra2_Jose Chan.csproj.CoreCompileInputs.cache
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\obj\Debug\IParcial_Progra2_Jose Chan.exe
+C:\RespositorioGit\IParcial_Progra2_Jose Chan\obj\Debug\IParcial_Progra2_Jose Chan.pdb
